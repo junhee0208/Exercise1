@@ -1,0 +1,7 @@
+C:\Users\admin\Downloads\InterviewCodeReviewTest-master\InterviewCodeReviewTest\obj\Debug\InterviewCodeReviewTest.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\InterviewCodeReviewTest-master\InterviewCodeReviewTest\obj\Debug\InterviewCodeReviewTest.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\InterviewCodeReviewTest-master\InterviewCodeReviewTest\bin\Debug\InterviewCodeReviewTest.pdb
+C:\Users\admin\Downloads\InterviewCodeReviewTest-master\InterviewCodeReviewTest\obj\Debug\InterviewCodeReviewTest.pdb
+C:\Users\admin\Downloads\InterviewCodeReviewTest-master\InterviewCodeReviewTest\bin\Debug\InterviewCodeReviewTest.exe.config
+C:\Users\admin\Downloads\InterviewCodeReviewTest-master\InterviewCodeReviewTest\bin\Debug\InterviewCodeReviewTest.exe
+C:\Users\admin\Downloads\InterviewCodeReviewTest-master\InterviewCodeReviewTest\obj\Debug\InterviewCodeReviewTest.exe
